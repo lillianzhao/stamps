@@ -45,6 +45,10 @@ $(document).ready(function () {
 		}
 	});
 
+	// $('.mycoolchart').addChartJS(funtion() {
+	// 	var data=[x, y, z]
+	// })
+
 });
 
 
