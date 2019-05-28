@@ -150,7 +150,7 @@ input {
     margin: 3px 0;
     outline: none;
     line-height: normal;
-    font-size: 20px;
+    font-size: 14px;
 }
 
 input[type="submit"] {
@@ -231,11 +231,15 @@ section {
 /* Main Widths */
 
 .col-1 {
-    width: 100%;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 .col-2 {
-    width: 50%;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%
 }
 
 .col-3 {
@@ -717,8 +721,13 @@ a img:hover {
 /* 3. Fonts */
 /*------------------------------------------------------------------------------------------*/
 
+p  {
+    font-size: 20px;
+}
+
 h1 {
     padding: 20px 0;
+    font-size: 20px;
 }
 
 h2 {
@@ -762,14 +771,13 @@ h6 {
 }
 
 .section-subtitle {
-    font-size: 18px;
+    font-size: 22px;
     padding-top: 0;
 }
 
 .section-heading h3 {
-    font-size: 14px;
+    font-size: 22px;
     font-weight: bold;
-    color: #ccc;
     letter-spacing: 2px;
     padding-bottom: 0;
 }
@@ -969,7 +977,7 @@ blockquote {
 }
 
 .testimonial.bigtest q {
-    font-size: 25px;
+    font-size: 28px;
 }
 
 /* --------- 6.4 Gallery ---------- */
