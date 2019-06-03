@@ -22,27 +22,27 @@ body {
 /* Default Link Color */
 
 a, .la-ball-triangle-path {
-    color:#d2b356;
+    color:#4266B2;
 }
 
 a:hover, #header.nav-solid nav a:hover {
-    color:#d2b356;
+    color:#4266B2;
 }
 
 /* Default Icon Color */
 
 .icon i {
-    color:#d2b356;
+    color:#4266B2;
 }
 
 /* Border Color */
 
 #banner .section-heading:before, .testimonial.classic footer:before {
-    background: #d2b356;
+    background: #4266B2;
 }
 
 .pricing-block-content:hover {
-    border-color:#d2b356;
+    border-color:#4266B2;
 }
 
 
@@ -82,7 +82,7 @@ a:hover, #header.nav-solid nav a:hover {
 /* Primary Background and Text Colors */
 
 .primary-color, .featured .pricing {
-    background-color:#d2b356;
+    background-color:#4266B2;
 }
 
 .primary-color, .primary-color .section-title, .primary-color .section-subtitle, .featured .pricing, .featured .pricing p {
@@ -90,7 +90,7 @@ a:hover, #header.nav-solid nav a:hover {
 }
 
 .section-heading h2:after {
-    background:#d2b356;
+    background:#4266B2;
     content:"";
     display:block;
     width:30px;
@@ -166,7 +166,7 @@ body {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size:62px;
     line-height:60px;
-    font-weight:800;
+    font-weight:400;
     color:#111;
 }
 
@@ -183,7 +183,7 @@ body {
 .section-title {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size: 34px; 
-    font-weight:700;
+    font-weight: 650;
     color:#111;
 }
 
@@ -306,8 +306,8 @@ h6 {
 /* Button Hover Color */
 
 #banner .button:hover {
-    color:#d2b356;
-    border-color:#d2b356;
+    color:#4266B2;
+    border-color:#4266B2;
 }
 
 
