@@ -69,6 +69,7 @@ a {
 
 iframe {
     border: 0 !important;
+    margin: 0 auto;
 }
 
 .parallax-window {
@@ -735,6 +736,11 @@ a img:hover {
 
 p  {
     font-size: 18px;
+}
+
+li {
+    font-size: 18px;
+    margin-left: 20px;
 }
 
 h1 {
