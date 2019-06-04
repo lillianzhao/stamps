@@ -704,6 +704,18 @@ img {
     margin: 0 auto;
 }
 
+.image-center-large {
+    display: block;
+    margin: 0 auto;
+    width: 850px;
+}
+
+.image-center-small {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+}
+
 a img {
     border: none;
     -webkit-transition: all 0.3s ease-out;
