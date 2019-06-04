@@ -228,6 +228,10 @@ section {
     clear: both;
 }
 
+.tab {
+    margin-left: 30px;
+}
+
 /* Main Widths */
 
 .col-1 {
